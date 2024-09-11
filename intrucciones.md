@@ -13,6 +13,5 @@ scp -r ip172-18-0-83-crguidiim2rg00aaa9v0@direct.labs.play-with-docker.com:/root
 
 
 
-### copiar carpeta chinook maquina local a carpeta init en PWD
-scp -r C:\Users\harlan\Desktop\chinook\ ip172-18-0-83-crguidiim2rg00aaa9v0@direct.labs.play-with-docker.com:/root/init/
+
 
